@@ -33,6 +33,7 @@ void showBoard(void)
 		}
 	}
 }
+comment by akira aizawa
 /*---ユーザーからの入力を受け付ける関数---*/
 void input(void)
 {	
